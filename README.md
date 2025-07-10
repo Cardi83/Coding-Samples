@@ -1,8 +1,6 @@
 # [⬛️]>_ **Coding Samples and Projects**
 
-![Languages](https://img.shields.io/github/languages/count/cardi83/codingsamples)
-![Top Language](https://img.shields.io/github/languages/top/cardi83/codingsamples)
-![Last Commit](https://img.shields.io/github/last-commit/cardi83/codingsamples)
+![Languages](https://img.shields.io/github/languages/count/cardi83/codingsamples) ![Top Language](https://img.shields.io/github/languages/top/cardi83/codingsamples) ![Last Commit](https://img.shields.io/github/last-commit/cardi83/codingsamples)
 
 This repository contains a collection of coding samples and small-scale projects developed by **Chris Cardi**. It showcases a variety of programming work that reflects diverse skills, technologies, and practical techniques.
 
