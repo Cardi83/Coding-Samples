@@ -1,32 +1,38 @@
-# **Coding Samples and Projects**
+# [⬛️]>_ **Coding Samples and Projects**
 
 ![Languages](https://img.shields.io/github/languages/count/cardi83/codingsamples)
 ![Top Language](https://img.shields.io/github/languages/top/cardi83/codingsamples)
 ![Last Commit](https://img.shields.io/github/last-commit/cardi83/codingsamples)
 
-This repository contains coding samples and small projects developed by **Chris Cardi**.  It showcases a range of programming work demonstrating various skills, languages, and techniques.
+This repository contains a collection of coding samples and small-scale projects developed by **Chris Cardi**. It showcases a variety of programming work that reflects diverse skills, technologies, and practical techniques.
 
-## **Contents**
+---
 
-- Sample scripts and small projects
-- Independent development work
-- Examples in multiple programming languages
-- Focused programming exercises
+## 📁 **Contents**
 
-## **Purpose**
+- Sample scripts and utility tools  
+- Independent development exercises  
+- Multi-language code examples  
+- Targeted problem-solving snippets  
 
-The repository serves as a personal archive of programming work.  It is intended to demonstrate proficiency in software development practices, problem-solving approaches, and technical versatility.
+---
 
-## **Languages and Technologies**
+## 🎯 **Purpose**
 
-- PowerShell
-- Python
-- SQL
+This repository serves as a personal archive of programming work. It is designed to demonstrate technical fluency, structured problem-solving, and a hands-on approach to software development across different use cases.
 
-## **Usage**
+---
 
-These samples and projects are provided for educational and reference purposes.  They are intended to illustrate personal coding practices and approaches to common programming problems.
+## 🛠️ **Languages and Technologies**
 
-## **Author**
+- PowerShell  
+- Python  
+- SQL  
 
-**Chris Cardi**
+---
+
+## [⬛️]>_ **Usage**
+
+These samples are provided for educational and reference purposes. They reflect real-world development habits and aim to illustrate clear, effective solutions to common programming challenges.
+
+
